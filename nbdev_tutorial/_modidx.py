@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://toutou001.github.io',
                 'git_url': 'https://github.com/toutou001/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.add': ('core.html#add', 'nbdev_tutorial/core.py')}}}
