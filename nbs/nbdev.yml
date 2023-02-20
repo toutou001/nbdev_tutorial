@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://toutou001.github.io/nbdev_tutorial"
+  description: "nbdev tutorial bt Abby to Mandy"
+  repo-branch: main
+  repo-url: "https://github.com/toutou001/nbdev_tutorial"
